@@ -14,6 +14,8 @@
 
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -21,6 +23,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
+
+---
 
 [website]: https://www.xfuture-blog.com/
 [twitter]: https://twitter.com/xFuturecs
