@@ -21,7 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Why it is important to stick with goal-oriented people](https://xfuture-blog.netlify.com/2020/01/01/stick_with_goal_oriented_people/)
+- [Meet Franz. This guy will help you to organize your chat chaos.](https://xfuture-blog.netlify.com/2019/02/01/meet_franz/)
+- [Develop your junior devs and helping them to grow.](https://xfuture-blog.netlify.com/2019/01/01/junior_devs/)
+- [The Peter Principle](https://xfuture-blog.netlify.com/2018/12/01/peter_principal/)
+- [Purge away unused css or scss properties with Purgecss!](https://xfuture-blog.netlify.com/2018/11/01/purge_css/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
