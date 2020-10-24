@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel [xFuture][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxFuturecs&screen_name=xFuturecs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/xFuturecs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxFuturecs&screen_name=xFuturecs)
 
 ## I'm fairly passionated about web development and DevOps. And overall an all-time learner who codes!
 
