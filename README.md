@@ -33,6 +33,6 @@
 
 ---
 
-[blog]: https://www.xfuture.digital
+[blog]: https://www.xfuture-blog.com/ 
 [twitter]: https://twitter.com/xFuturecs
-[website]: https://www.xfuture-blog.com/
+[website]: https://www.xfuture.digital
