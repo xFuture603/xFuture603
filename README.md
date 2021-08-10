@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using rclone to backup your files encrypted to various cloud solutions](https://xfuture-blog.netlify.com/2021/03/03/backup_with_rclone/)
 - [The things I have learned during pair programming](https://xfuture-blog.netlify.com/2021/02/02/pair_programming/)
 - [The problem I have with stand-ups](https://xfuture-blog.netlify.com/2021/01/01/stand_ups/)
 - [Why so many programmers lose hope in their work from time to time](https://xfuture-blog.netlify.com/2020/02/01/lose_hope/)
 - [Why it is important to stick with goal-oriented people](https://xfuture-blog.netlify.com/2020/01/01/stick_with_goal_oriented_people/)
-- [Meet Franz. This guy will help you to organize your chat chaos.](https://xfuture-blog.netlify.com/2019/02/01/meet_franz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
