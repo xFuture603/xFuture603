@@ -31,6 +31,14 @@
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
 
+### 📕 Latest Podcast Episodes
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more podcast episodes...](https://www.xfuture-blog.com/)
+
 ---
 
 [blog]: https://www.xfuture-blog.com/ 
