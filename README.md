@@ -5,7 +5,8 @@
 ## I'm fairly passionated about web development and DevOps. And overall an all-time learner who codes!
 
 - 🌱 I try to learn something new everytime
-- 👯 I’m looking to collaborate with other system engineers
+- 👯 Mainly looking to participate in other OS projects
+- 👨‍💻 Currently writing blog posts, recording a podcast and working on other miscellaneous projects 
 
 ---
 
@@ -14,6 +15,7 @@
 [<img align="left" alt="Homepage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][blog]
+[<img align="left" alt="Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/audio-spectrum.svg" />][podcast]
 
 <br />
 
@@ -31,16 +33,9 @@
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
 
-### 📕 Latest Podcast Episodes
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more podcast episodes...](https://www.xfuture-blog.com/)
-
 ---
 
 [blog]: https://www.xfuture-blog.com/ 
 [twitter]: https://twitter.com/xFuturecs
 [website]: https://www.xfuture.digital
+[podcast]: https://wasbinichhörend.de
