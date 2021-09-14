@@ -38,4 +38,4 @@
 [blog]: https://www.xfuture-blog.com/ 
 [twitter]: https://twitter.com/xFuturecs
 [website]: https://www.xfuture.digital
-[podcast]: https://wasbinichhörend.de
+[podcast]: https://wasbinichhoerend.de/
