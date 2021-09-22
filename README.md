@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using rclone to backup your files encrypted to various cloud solutions](https://xfuture-blog.netlify.com/2021/03/03/backup_with_rclone/)
-- [The things I have learned during pair programming](https://xfuture-blog.netlify.com/2021/02/02/pair_programming/)
-- [The problem I have with stand-ups](https://xfuture-blog.netlify.com/2021/01/01/stand_ups/)
-- [Why so many programmers lose hope in their work from time to time](https://xfuture-blog.netlify.com/2020/02/01/lose_hope/)
-- [Why it is important to stick with goal-oriented people](https://xfuture-blog.netlify.com/2020/01/01/stick_with_goal_oriented_people/)
+- [Using rclone to backup your files encrypted to various cloud solutions](https://xfuture-blog.com/2021_08_10/backup_with_rclone/)
+- [The things I have learned during pair programming](https://xfuture-blog.com/2021_06_14/pair_programming/)
+- [The problem I have with stand-ups](https://xfuture-blog.com/2021_02_20/stand_ups/)
+- [Why so many programmers lose hope in their work from time to time](https://xfuture-blog.com/2020_11_01/lose_hope/)
+- [Why it is important to stick with goal-oriented people](https://xfuture-blog.com/2020_01_12/stick_with_goal_oriented_people/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
