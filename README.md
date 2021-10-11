@@ -1,4 +1,6 @@
-### Hi there, I'm Daniel aka [xFuture][website] 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Daniel!
+
+<br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xFuturecs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxFuturecs&screen_name=xFuturecs)
 
@@ -6,7 +8,7 @@
 
 - 🌱 I try to learn something new everytime
 - 👯 Mainly looking to participate in other OS projects
-- 👨‍💻 Currently writing blog posts, recording a podcast and working on other miscellaneous projects 
+- 👨‍💻 Currently writing blog posts, recording a podcast and working on other miscellaneous projects
 
 ---
 
@@ -35,7 +37,7 @@
 
 ---
 
-[blog]: https://www.xfuture-blog.com/ 
+[blog]: https://www.xfuture-blog.com/
 [twitter]: https://twitter.com/xFuturecs
 [website]: https://www.xfuture.digital
 [podcast]: https://wasbinichhoerend.de/
