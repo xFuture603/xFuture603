@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Work in an Environment of Distractions](https://xfuture-blog.com/2021_11_21/deep_work/)
-- [I have revamped my blog and here is why](https://xfuture-blog.com/2021_10_03/revamped_my_blog/)
-- [Using rclone to backup your files encrypted to various cloud solutions](https://xfuture-blog.com/2021_08_10/backup_with_rclone/)
-- [The things I have learned during pair programming](https://xfuture-blog.com/2021_06_14/pair_programming/)
-- [The problem I have with stand-ups](https://xfuture-blog.com/2021_02_20/stand_ups/)
+- [Develop your junior devs and helping them to grow.](https://xfuture-blog.com/develop-your-junior-devs-and-helping-them-to-grow/)
+- [The Peter Principle](https://xfuture-blog.com/the-peter-principle/)
+- [Purge away unused CSS or SCSS properties with Purgecss!](https://xfuture-blog.com/purge-away-unused-css-or-scss-properties-with-purgecss/)
+- [The technologies behind this blog](https://xfuture-blog.com/the-technologies-behind-this-blog/)
+- [My blog just spawned!](https://xfuture-blog.com/my-blog-just-spawned/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
