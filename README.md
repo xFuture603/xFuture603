@@ -26,6 +26,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Peter Principle](https://xfuture-blog.com/the-peter-principle/)
+- [Purge away unused css or scss properties with Purgecss!](https://xfuture-blog.com/purge-away-unused-css-or-scss-properties-with-purgecss/)
+- [The technologies behind this blog](https://xfuture-blog.com/the-technologies-behind-this-blog/)
 - [My blog just spawned!](https://xfuture-blog.com/my-blog-just-spawned/)
 <!-- BLOG-POST-LIST:END -->
 
