@@ -26,11 +26,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Start here for a quick overview of everything you need to know](https://xfuture-blog.com/welcome/)
-- [Customizing your brand and design settings](https://xfuture-blog.com/design/)
-- [Writing and managing content in Ghost, an advanced guide](https://xfuture-blog.com/write/)
-- [Building your audience with subscriber signups](https://xfuture-blog.com/portal/)
-- [Selling premium memberships with recurring revenue](https://xfuture-blog.com/sell/)
+- [My blog just spawned!](https://xfuture-blog.com/my-blog-just-spawned/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
