@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The problem I have with stand-ups](https://xfuture-blog.com/the-problem-i-have-with-stand-ups/)
 - [Why so many programmers lose hope in their work from time to time](https://xfuture-blog.com/why-so-many-programmers-lose-hope-in-their-work-from-time-to-time/)
 - [Why it is important to stick with goal-oriented people](https://xfuture-blog.com/why-it-is-important-to-stick-with-goal-oriented-people/)
 - [Meet Franz. This guy will help you to organize your chat chaos.](https://xfuture-blog.com/meet-franz-this-guy-will-help-you-to-organize-your-chat-chaos/)
 - [Develop your junior devs and helping them to grow.](https://xfuture-blog.com/develop-your-junior-devs-and-helping-them-to-grow/)
-- [The Peter Principle](https://xfuture-blog.com/the-peter-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
