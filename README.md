@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manage environmental differences with docker-compose overrides](https://xfuture-blog.com/manage/)
 - [Deep Work in an Environment of Distractions](https://xfuture-blog.com/deep-work-in-an-environment-of-distractions/)
 - [I have revamped my blog and here is why](https://xfuture-blog.com/i-have-revamped-my-blog-and-here-is-why/)
 - [Using rclone to backup your files encrypted to various cloud solutions](https://xfuture-blog.com/using-rclone-to-backup-your-files-encrypted-to-various-cloud-solutions/)
 - [The things I have learned during pair programming](https://xfuture-blog.com/the-things-i-have-learned-during-pair-programming/)
-- [The problem I have with stand-ups](https://xfuture-blog.com/the-problem-i-have-with-stand-ups/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
