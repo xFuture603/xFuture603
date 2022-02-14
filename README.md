@@ -26,7 +26,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage environmental differences with docker-compose overrides](https://xfuture-blog.com/manage/)
+- [Manage environmental differences with docker-compose overrides](https://xfuture-blog.com/docker_compose_overrides/)
 - [Deep Work in an Environment of Distractions](https://xfuture-blog.com/deep-work-in-an-environment-of-distractions/)
 - [I have revamped my blog and here is why](https://xfuture-blog.com/i-have-revamped-my-blog-and-here-is-why/)
 - [Using rclone to backup your files encrypted to various cloud solutions](https://xfuture-blog.com/using-rclone-to-backup-your-files-encrypted-to-various-cloud-solutions/)
