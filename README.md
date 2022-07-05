@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" heigth="10px">, I am Daniel!
+### Hi there, I am Daniel!
 
 <br />
 
