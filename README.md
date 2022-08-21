@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate your Ghost SQLite Database to MySQL](https://xfuture-blog.com/ghost_database_migration/)
 - [Deliberately distinguish the vital few from the trivial many](https://xfuture-blog.com/deliberately-distinguish-the-vital-few-from-the-trivial-many/)
 - [Activate Keychron Function Keys on Ubuntu](https://xfuture-blog.com/keychron_function_keys/)
 - [Manage environmental differences with docker-compose overrides](https://xfuture-blog.com/docker_compose_overrides/)
 - [Deep Work in an Environment of Distractions](https://xfuture-blog.com/deep-work-in-an-environment-of-distractions/)
+- [I have revamped my blog and here is why](https://xfuture-blog.com/i-have-revamped-my-blog-and-here-is-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
