@@ -4,11 +4,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xFuturecs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxFuturecs&screen_name=xFuturecs)
 
-## I'm fairly passionated about web development and DevOps. And overall an all-time learner who codes!
-
-- 🌱 I try to learn something new everytime
-- 👯 Mainly looking to participate in other OS projects
-- 👨‍💻 Currently writing blog posts, recording a podcast and working on other miscellaneous projects
+## On the move with a wide range of technologies while following the DevOps approach.
+- 🔊 Podcasting episodes for [wasbinichhoerend.de][podcast]
+- 📰 Writing blog posts on my personal [blog]
+- 🚀 Currently working on a project called [symnix]
 
 ---
 
@@ -41,3 +40,4 @@
 [twitter]: https://twitter.com/xFuturecs
 [website]: https://www.xfuture.digital
 [podcast]: https://wasbinichhoerend.de/
+[symnix]: https://symnix.com/
