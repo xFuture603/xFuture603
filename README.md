@@ -1,7 +1,3 @@
-### Hi there, I am Daniel!
-
-<br />
-
 ## On the move with a wide range of technologies while following the DevOps approach.
 - 🔊 Podcasting episodes for [wasbinichhoerend.de][podcast]
 - 📰 Writing blog posts on my personal [blog]
