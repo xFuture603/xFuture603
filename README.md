@@ -2,8 +2,6 @@
 
 <br />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/xFuturecs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxFuturecs&screen_name=xFuturecs)
-
 ## On the move with a wide range of technologies while following the DevOps approach.
 - 🔊 Podcasting episodes for [wasbinichhoerend.de][podcast]
 - 📰 Writing blog posts on my personal [blog]
