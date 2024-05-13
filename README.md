@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A rant about monitoring fatigue](https://xfuture-blog.com/a-rant-about-monitoring-fatigue/)
 - [How to run better meetings](https://xfuture-blog.com/how_to_run_better_meetings/)
 - [The Unspoken Resignation called Quiet Quitting](https://xfuture-blog.com/the-unspoken-resignation-called-quiet-quitting/)
 - [Beware of .zip Domains: Phishing Risks and Unicode Confusion](https://xfuture-blog.com/zip_domains/)
 - [Automate Deployments with Renovate and GitHub Actions](https://xfuture-blog.com/automate-deployments-with-renovate-and-github-actions/)
-- [Hardening your Docker installation](https://xfuture-blog.com/hardening-your-docker-installation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
