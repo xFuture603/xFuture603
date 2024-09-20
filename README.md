@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove Member Duplications in GitLab](https://xfuture-blog.com/remove-member-duplications-in-gitlab/)
 - [Working with Conventional Commits](https://xfuture-blog.com/working-with-conventional-commits/)
 - [A rant about monitoring fatigue](https://xfuture-blog.com/a-rant-about-monitoring-fatigue/)
 - [How to run better meetings](https://xfuture-blog.com/how_to_run_better_meetings/)
 - [The Unspoken Resignation called Quiet Quitting](https://xfuture-blog.com/the-unspoken-resignation-called-quiet-quitting/)
-- [Beware of .zip Domains: Phishing Risks and Unicode Confusion](https://xfuture-blog.com/zip_domains/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
