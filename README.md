@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customize your RSS Feed in a Ghost Theme](https://xfuture-blog.com/customize-your-rss-feed-in-a-ghost-theme/)
 - [Managing your dotfiles](https://xfuture-blog.com/managing-your-dotfiles/)
 - [Automating Builds and Releases with Conventional Commits and Semantic Versioning](https://xfuture-blog.com/automating-builds-and-releases-with-conventional-commits-and-semantic-versioning/)
 - [Remove Member Duplications in GitLab](https://xfuture-blog.com/remove-member-duplications-in-gitlab/)
 - [Working with Conventional Commits](https://xfuture-blog.com/working-with-conventional-commits/)
-- [A rant about monitoring fatigue](https://xfuture-blog.com/a-rant-about-monitoring-fatigue/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
