@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up SimpleX As Your Private Messenger](https://xfuture-blog.com/setting-up-simplex-as-your-private-messenger/)
 - [Hardening Your Traefik with Security Headers](https://xfuture-blog.com/hardening-your-traefik-with-security-headers/)
 - [Sign your Git Commits](https://xfuture-blog.com/sign-your-git-commits/)
 - [Global HTTPS Redirect using Traefik v3](https://xfuture-blog.com/global-https-redirect-using-traefik-v3/)
 - [Customize your RSS Feed in a Ghost Theme](https://xfuture-blog.com/customize-your-rss-feed-in-a-ghost-theme/)
-- [Managing your dotfiles](https://xfuture-blog.com/managing-your-dotfiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
