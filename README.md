@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Git Server](https://xfuture-blog.com/posts/a-simple-git-server/)
 - [Git Restore All Unstaged Files Back to their Latest Commit](https://xfuture-blog.com/posts/git-restore-all-unstaged-files/)
 - [Setting Up SimpleX As Your Private Messenger](https://xfuture-blog.com/posts/setting-up-simplex-as-your-private-messenger/)
 - [Hardening Your Traefik with Security Headers](https://xfuture-blog.com/posts/hardening-your-traefik-with-security-headers/)
 - [Sign your Git Commits](https://xfuture-blog.com/posts/sign-your-git-commits/)
-- [Global HTTPS Redirect using Traefik v3](https://xfuture-blog.com/posts/global-https-redirect-using-traefik-v3/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
