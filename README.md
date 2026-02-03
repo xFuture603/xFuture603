@@ -18,7 +18,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [I revived my old iPod to escape my phone](https://xfuture-blog.com/posts/i-revived-my-ipod-to-escape-my-phone/)
 - [A Simple Git Server](https://xfuture-blog.com/posts/a-simple-git-server/)
 - [Git Restore All Unstaged Files Back to their Latest Commit](https://xfuture-blog.com/posts/git-restore-all-unstaged-files/)
