@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrate from MkDocs to Zensical](https://xfuture-blog.com/posts/migrate-from-mkdocs-to-zensical/)
 - [Extending AI capabilities with Agent Skills](https://xfuture-blog.com/posts/extending-ai-capabilities-with-agent-skills/)
 - [I revived my old iPod to escape my phone](https://xfuture-blog.com/posts/i-revived-my-ipod-to-escape-my-phone/)
 - [A Simple Git Server](https://xfuture-blog.com/posts/a-simple-git-server/)
 - [Git Restore All Unstaged Files Back to their Latest Commit](https://xfuture-blog.com/posts/git-restore-all-unstaged-files/)
-- [Setting Up SimpleX As Your Private Messenger](https://xfuture-blog.com/posts/setting-up-simplex-as-your-private-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
