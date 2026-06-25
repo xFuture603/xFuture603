@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing GitLab Permissions as Code with GitLabForm](https://xfuture-blog.com/posts/gitlabform/)
 - [WIFIonICE not working on Linux with Docker](https://xfuture-blog.com/posts/deutsche-bahn-wifi-and-docker/)
 - [Typos are the new Trust Signal](https://xfuture-blog.com/posts/typos-are-the-new-trust-signal/)
 - [Migrate from MkDocs to Zensical](https://xfuture-blog.com/posts/migrate-from-mkdocs-to-zensical/)
 - [Extending AI capabilities with Agent Skills](https://xfuture-blog.com/posts/extending-ai-capabilities-with-agent-skills/)
-- [I revived my old iPod to escape my phone](https://xfuture-blog.com/posts/i-revived-my-ipod-to-escape-my-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
