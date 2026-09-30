@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Being clear with your interests](https://xfuture-blog.com/posts/being-clear-with-your-interests/)
 - [Join Your First XMPP Server](https://xfuture-blog.com/posts/join-your-first-xmpp-server/)
 - [A few thoughts on journaling](https://xfuture-blog.com/posts/a-few-thoughts-on-journaling/)
 - [Managing GitLab Permissions as Code with GitLabForm](https://xfuture-blog.com/posts/gitlabform/)
 - [WIFIonICE not working on Linux with Docker](https://xfuture-blog.com/posts/deutsche-bahn-wifi-and-docker/)
-- [Typos are the new Trust Signal](https://xfuture-blog.com/posts/typos-are-the-new-trust-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.xfuture-blog.com/)
